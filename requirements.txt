@@ -1,4 +1,4 @@
-# jupyter
+jupyter
 notebook
 pandas
 scipy
