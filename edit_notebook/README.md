@@ -31,7 +31,7 @@ deactivate
 To run the notebook first you should [install the packages using the requirements.txt file][install packages using a requirements file]:
 
 ```bash
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 
 ## Convert Notebook to README.md
